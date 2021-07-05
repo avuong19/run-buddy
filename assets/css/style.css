@@ -119,10 +119,7 @@ section {
     width: 40%;
     color:#024e76;
     border: solid 3px #024e76;
-    position:absolute;
-    bottom:120px;
-    right:140px;
-    margin: 3.5%;
+    margin:3.5%;
 }
 
 .hero-form h3{
@@ -185,7 +182,7 @@ section {
     background: #fce138;
 }
   
-  .steps h3 {
+  .step h3 {
     color: #024e76;
     font-size: 46px;
     flex: 1 30%;
@@ -205,7 +202,7 @@ section {
 
   .step-text h4{
     font-size: 26px;
-    line-height: 1.5px;
+    line-height: 1.5;
     color: #024e76;
 
   }
